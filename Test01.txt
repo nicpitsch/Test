@@ -1,8 +1,9 @@
-Possible way to solve the problem
+# Possible way to solve the problem
+Well, checktout Master branch again. And continue with editions.
+
 To honest, in the retrospective it isn't anymore comprehensible what lend to the solution :-(. And yes, is this problem really solved?
 
 What I did:
-
 	* Drop content of the Visual Studio (VS) ShadowCache folder. ( I also was more rigide and did delete the full 11.0/14.0 folder, but that does also damage the Extension settings. I had also the reinstall ReSharper. )
 	* Uninstall Blend for Visual Studio from the VS Setup (Systemsteuerung.. Programme und Funktionen) and reinstall it(?).
 	* Set Target Framework of the VS Projects to .NET Frameworkt 4.6.1.
@@ -10,7 +11,6 @@ What I did:
 
 So now, when I start ProjAdmin, the XAML Designer window of the View may display an error message or a part or all of the Telerik controls aren't rendered.
 What to do:
-
 	* Kill the XDescProc.exe Process within the Windows Task-Manager.
 	* Rebuild that Project within VS.
 	* Start the reload the designer command within the View window.

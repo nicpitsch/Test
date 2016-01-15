@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+This file was created on the master branch.
+=======
+I continue editing it on the TestFeature1 branch now 201601150721. Means after editing it on the master branch and without merging before.
+
+Possible way to solve the problem
+To honest, in the retrospective it isn't anymore comprehensible what lend to the solution :-(. And yes, is this problem really solved?
+>>>>>>> TestFeature1
+
+I do now 201601150720 edit and commit it on the master branch.

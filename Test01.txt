@@ -16,3 +16,5 @@ What to do:
 	* Kill the XDescProc.exe Process within the Windows Task-Manager.
 	* Rebuild that Project within VS.
 	* Start the reload the designer command within the View window.
+
+I should get a warning when try to checkout another branch?!
